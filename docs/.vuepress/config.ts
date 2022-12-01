@@ -4,7 +4,7 @@ import theme from "./theme";
 import { path } from "@vuepress/utils";
 
 export default defineUserConfig({
-  base: "/",
+  base: "/zq-homepage/",
 
   plugins: [
     sitemapPlugin({ // 从 sitemap 中去除不需要的页面
