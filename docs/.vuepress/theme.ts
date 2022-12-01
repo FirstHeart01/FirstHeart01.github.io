@@ -3,7 +3,7 @@ import * as navbar from "./navbar";
 
 export default hopeTheme({
   // 部署到的网址
-  hostname: "https://firstheart01.github.io/zq-homepage",
+  hostname: "https://firstheart01.github.io",
 
   // 默认作者
   // author: {
