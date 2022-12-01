@@ -7,7 +7,8 @@
 [![zq-homepage](https://img.shields.io/badge/Zeng%20Qi's-Homepage-%234994c4?style=flat-square)](https://firstheart01.github.io/zq-homepage)
 ![LICENSE](https://img.shields.io/github/license/firstheart01/zq-homepage?style=flat-square)
 
-非常感谢 [vuepress-theme-hope](https://vuepress-theme-hope.github.io/v2/) 所构建的主题以及 [rpg-homepage-template](https://ruopenggao.com) 编写的的模板。
+非常感谢 [vuepress-theme-hope](https://vuepress-theme-hope.github.io/v2/) 所构建的主题以及 [rpg-homepage-template](https://ruopenggao.com) 编写的的模板，其样式如下图所示：
+![demo-homepage](img/demo-homepage.png)
 
 
 ## 写在前面 
