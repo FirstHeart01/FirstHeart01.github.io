@@ -22,8 +22,8 @@ vuepress-theme-hope 提供了非常简单的部署到 GitHub 的方法，可以�
 
 由于我的仓库名称不是\<Username\>.github.io的形式，因此在部署的网址是：\<Username\>.github.io.\<repo\>，所以需要在config.ts和theme.ts当中==修改hostname==，同时config.ts中的==base==也需要进行修改。
 
-**一些吐槽 可以掠过：**
+**一些吐槽：**
 
 <s>由于最开始我创建了工作流，使用了Github Actions进行部署，因此我在工作流中创建了一个分支，用于储存 vuepress build docs 产生的文件，但是不知道为什么使用工作流没有部署好，虽然提示部署成功，可域名还是无法访问，后面又出现一些CSS样式没加载出来的错误，但后面不知道为什么好了，莫非是还有延迟？</s>​  ​
 
-最后，通过自定义创建的jekyll-gh-pages.yml，添加了一些steps，然后成功部署。
+之后我切换了Source，使用传统的方法，Deploy from a branch，替换了Github Actions，之后就部署成功了。注意，Branch分支选择gh-pages /root目录。
