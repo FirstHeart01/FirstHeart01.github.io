@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+name: 部署文档
 
 on:
   # Runs on pushes targeting the default branch
@@ -27,10 +27,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      
-      - name: Setup Pages
-        uses: actions/configure-pages@v2
-      
+        
       - name: 设置 Node.js
         uses: actions/setup-node@v3
         with:
@@ -46,15 +43,6 @@ jobs:
         run: |-
           npm run docs:build
           > docs/.vuepress/dist/.nojekyll
-          
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
-          
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
         
       # 查看 workflow 的文档来获取更多信息
       # @see https://github.com/crazy-max/ghaction-github-pages
