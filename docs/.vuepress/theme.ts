@@ -86,7 +86,7 @@ export default hopeTheme({
 
       blog: {
         name: "Zeng Qi",
-        description: "<p>M.S Student in <a href=\"http://ia.cas.cn/\">CASIA</a>.<br>Focusing on 3D Computer Vision and Deep Learning.</p> <p><em><strong>这是一句有哲理的话</strong></em></p>",
+        description: "<p>M.S Student in <a href=\"http://ia.cas.cn/\">CASIA</a>.<br>Focusing on 3D Computer Vision and Deep Learning.</p> <p><em><strong>人的一生当中，会遇到很多人，每一个时段都会有不同的感受，唯爱与真诚永恒。</strong></em></p>",
       },
     },
 
@@ -107,7 +107,7 @@ export default hopeTheme({
 
       blog: {
         name: "曾琪",
-        description:"<p>中科院自动化研究所硕士在读<br>研究方向为3D计算机视觉</p><em><strong>这是一句有哲理的话</strong></em></p>",
+        description:"<p>中科院自动化研究所硕士在读<br>研究方向为3D计算机视觉</p><em><strong>人的一生当中，会遇到很多人，每一个时段都会有不同的感受，唯爱与真诚永恒。</strong></em></p>",
       },
     },
   },
