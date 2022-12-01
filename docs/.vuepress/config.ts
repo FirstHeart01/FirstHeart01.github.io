@@ -4,11 +4,11 @@ import theme from "./theme";
 import { path } from "@vuepress/utils";
 
 export default defineUserConfig({
-  base: "/",
+  base: "/zq-homepage/",
 
   plugins: [
     sitemapPlugin({ // 从 sitemap 中去除不需要的页面
-      hostname: "https://firstheart01.github.io",
+      hostname: "https://firstheart01.github.io/zq-homepage",
       excludeUrls: ["/timeline/", "/category/", "/star/", "/slide/", "/encrypted/", "/article/", "/tag/",
         "/zh/timeline/", "/zh/category/", "/zh/star/", "/zh/slide/", "/zh/encrypted/", "/zh/article/", "/zh/tag/",
         "/intro.html", "/slide.html", "/home.html"],
