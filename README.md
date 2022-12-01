@@ -9,9 +9,6 @@
 
 基于 [vuepress-theme-hope](https://vuepress-theme-hope.github.io/v2/)，修改部分样式和组件，设计实现了个人主页 [Ruopeng Gao's Homepage](https://ruopenggao.com) 的模板。
 
-![rpg-homepage](img/rpg-homepage.png)
-
-
 
 ## 写在前面 :tada:
 

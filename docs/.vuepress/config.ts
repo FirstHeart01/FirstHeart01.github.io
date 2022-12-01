@@ -39,6 +39,7 @@ export default defineUserConfig({
   },
 
   theme,
+  shouldPrefetch: false,
 
   alias: {
     "@theme-hope/module/blog/components/BlogHome": path.resolve(
