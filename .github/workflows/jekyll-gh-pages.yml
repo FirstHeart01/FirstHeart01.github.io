@@ -19,12 +19,19 @@ jobs:
           # “最近更新时间” 等 git 日志相关信息，需要拉取全部提交记录
           fetch-depth: 0
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          # 选择要使用的 node 版本
+          node-version: 18
+          cache: npm
+
       - name: vuepress-deploy
         uses: jenkey2011/vuepress-deploy@master
         env:
           ACCESS_TOKEN: ${{ secrets.VUEPRESS_TOKEN }}
           TARGET_REPO: firstheart01/zq-homepage
-          TARGET_BRANCH: gh_pages
+          TARGET_BRANCH: gh-pages
           BUILD_SCRIPT: npm ci && npm run docs:build
           BUILD_DIR: docs/.vuepress/dist
 
