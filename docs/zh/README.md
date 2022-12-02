@@ -27,7 +27,7 @@ footer: Truly appreciate to <a href="https://github.com/HELLORPG/rpg-homepage-te
 - *2013.9 - 2019.8*，高中， 就读于重庆市璧山区璧山中学。
 
 
-## 论文:pager:
+## 论文:page_with_curl:
 - ***A Systematic Overview of Android Malware Detection*** <br>Li Meijin, Fang Zhiyang, Wang Junfeng, Cheng Luyu, **Zeng Qi**, Yang Tao, Wu Yinwei, Geng Jiaxuan. **Review, Dec 2021.** *Applied Artificial Intelligence, 36(1)*
 
 
