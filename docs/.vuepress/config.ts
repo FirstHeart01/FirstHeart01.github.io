@@ -60,5 +60,9 @@ export default defineUserConfig({
         __dirname,
         "./components/MyNavScreen"
     ),
+    "@theme-hope/components/AutoLink": path.resolve(
+      __dirname,
+      "./components/MyAutoLink.ts"
+    ),
   }
 });

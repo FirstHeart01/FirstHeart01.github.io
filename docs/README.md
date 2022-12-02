@@ -15,11 +15,11 @@ footer: Truly appreciate to <a href="https://github.com/HELLORPG/rpg-homepage-te
 My research interests mainly focus on **3D Computer Vision and Deep Learning**, and the specific field is **3D Instance Segmentation** task. During the undergraduate period, I did research in the field of Android malware detection.
 
 ## Educations:mortar_board:
-- *2023.6 - Present*，M.S，National Laboratory of Pattern Recognition(NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing.
+- *2023.6 - Present*, M.S, National Laboratory of Pattern Recognition(NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing.
 
-- *2019.9 - 2023.6*，Undergraduate，Department of Computer Science and Technology, Sichuan University, Sichuan.
+- *2019.9 - 2023.6*, Undergraduate, Department of Computer Science and Technology, Sichuan University, Sichuan.
 
-- *2013.9 - 2019.8*，Bishan Middle School, Bishan District, Chongqing.
+- *2013.9 - 2019.8*, Bishan Middle School, Bishan District, Chongqing.
 
 ## Publications:page_with_curl:
 - ***A Systematic Overview of Android Malware Detection*** <br>Li Meijin, Fang Zhiyang, Wang Junfeng, Cheng Luyu, **Zeng Qi**, Yang Tao, Wu Yinwei, Geng Jiaxuan. **Review, Dec 2021.** *Applied Artificial Intelligence, 36(1)*
