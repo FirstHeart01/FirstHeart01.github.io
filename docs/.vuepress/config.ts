@@ -1,5 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import { sitemapPlugin } from "vuepress-plugin-sitemap2";
+import { externalLinkIconPlugin } from "@vuepress/plugin-external-link-icon"
 import theme from "./theme";
 import { path } from "@vuepress/utils";
 
@@ -13,6 +14,16 @@ export default defineUserConfig({
         "/zh/timeline/", "/zh/category/", "/zh/star/", "/zh/slide/", "/zh/encrypted/", "/zh/article/", "/zh/tag/",
         "/intro.html", "/slide.html", "/home.html"],
     }),
+    externalLinkIconPlugin({
+      locales: {
+        '/': {
+          openInNewWindow: 'open in new window',
+        },
+        '/zh/': {
+          openInNewWindow: '在新窗口打开',
+        },
+      }
+    })
   ],
 
   head: [
