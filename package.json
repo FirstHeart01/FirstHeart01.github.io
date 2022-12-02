@@ -8,7 +8,8 @@
     "lint": "vue-cli-service lint",
     "docs:build": "vuepress build docs",
     "docs:clean-dev": "vuepress dev docs --clean-cache",
-    "docs:dev": "vuepress dev docs"
+    "docs:dev": "vuepress dev docs",
+    "deploy": "bash deploy.sh"
   },
   "dependencies": {
     "core-js": "^3.8.3",
