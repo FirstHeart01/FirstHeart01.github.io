@@ -24,7 +24,7 @@ footer: Truly appreciate to <a href="https://github.com/HELLORPG/rpg-homepage-te
 
 
 
-- *2013.9 - 2019.8*，高中， 就读于重庆市璧山区璧山中学。
+- *2016.9 - 2019.8*，高中， 就读于重庆市璧山区璧山中学。
 
 
 ## 论文:page_with_curl:

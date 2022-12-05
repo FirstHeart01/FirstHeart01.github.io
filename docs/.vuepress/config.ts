@@ -23,7 +23,7 @@ export default defineUserConfig({
           openInNewWindow: '在新窗口打开',
         },
       }
-    })
+    }),
   ],
 
   head: [

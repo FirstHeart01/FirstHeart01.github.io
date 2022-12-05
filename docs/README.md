@@ -19,7 +19,7 @@ My research interests mainly focus on **3D Computer Vision and Deep Learning**, 
 
 - *2019.9 - 2023.6*, Undergraduate, Department of Computer Science and Technology, Sichuan University, Sichuan.
 
-- *2013.9 - 2019.8*, Bishan Middle School, Bishan District, Chongqing.
+- *2016.9 - 2019.8*, Bishan Middle School, Chungking.
 
 ## Publications:page_with_curl:
 - ***A Systematic Overview of Android Malware Detection*** <br>Li Meijin, Fang Zhiyang, Wang Junfeng, Cheng Luyu, **Zeng Qi**, Yang Tao, Wu Yinwei, Geng Jiaxuan. **Review, Dec 2021.** *Applied Artificial Intelligence, 36(1)*
