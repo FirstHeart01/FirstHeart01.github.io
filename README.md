@@ -28,3 +28,6 @@ vuepress-theme-hope 提供了非常简单的部署到 GitHub 的方法，可以�
 <s>由于最开始我创建了工作流，使用了Github Actions进行部署，因此我在工作流中创建了一个分支，用于储存 vuepress build docs 产生的文件，但是不知道为什么使用工作流没有部署好，虽然提示部署成功，可域名还是无法访问，后面又出现一些CSS样式没加载出来的错误，但后面不知道为什么好了，莫非是还有延迟？</s>​  ​
 
 之后我切换了Source，使用传统的方法，Deploy from a branch，替换了Github Actions，之后就部署成功了。注意，Branch分支选择gh-pages /root目录。
+
+如果你下载了本仓库代码，在Github Pages的设置中，选择Deploy from a branch应该就可以了，因为已经建立好了workflow工作流。
+![deploy-setting](img/deploy-setting.png)
