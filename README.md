@@ -21,7 +21,7 @@
 
 vuepress-theme-hope 提供了非常简单的部署到 GitHub 的方法，可以先简单参考一下文档中 [部署项目](https://vuepress-theme-hope.github.io/v2/zh/cookbook/tutorial/deploy.html) 一章。
 
-由于我的仓库名称不是\<Username\>.github.io的形式，因此在部署的网址是：\<Username\>.github.io.\<repo\>，所以需要在config.ts和theme.ts当中==修改hostname==，同时config.ts中的==base==也需要进行修改。
+由于我的仓库名称不是\<Username\>.github.io的形式，因此在部署的网址是：\<Username\>.github.io.\<repo\>，所以需要在config.ts和theme.ts当中**修改hostname**，同时config.ts中的**base**也需要进行修改。
 
 **一些吐槽：**
 
