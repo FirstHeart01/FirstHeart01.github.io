@@ -24,10 +24,11 @@ My research interests mainly focus on **3D Computer Vision and Deep Learning**, 
 ## Publications:page_with_curl:
 - ***A Systematic Overview of Android Malware Detection*** <br>Li Meijin, Fang Zhiyang, Wang Junfeng, Cheng Luyu, **Zeng Qi**, Yang Tao, Wu Yinwei, Geng Jiaxuan. **Review, Dec 2021.** *Applied Artificial Intelligence, 36(1)*
 
+- ***DroidRL: Feature selection for android malware detection with reinforcement learning*** <br>Wu Yinwei, Li Meijin, **Zeng Qi**, Yang Tao, Fang Zhiyang, Chen Luyu. **Review, Jan 2023.** *Computers & Security, 128(9)*
 
 ## Contact:e-mail:
 - Email:
-    - Edu: <a href="mailto:zengqi@ia.ac.cn">zengqi@ia.ac.cn</a>
+    - Edu: <a href="mailto:zengqi2023@ia.ac.cn">zengqi2023@ia.ac.cn</a>
     - QQ: <a href="mailto:scu_zengqi@qq.com">scu_zengqi@qq.com</a>
 
 ## Friends:raised_hands:

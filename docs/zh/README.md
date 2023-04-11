@@ -30,10 +30,11 @@ footer: Truly appreciate to <a href="https://github.com/HELLORPG/rpg-homepage-te
 ## 论文:page_with_curl:
 - ***A Systematic Overview of Android Malware Detection*** <br>Li Meijin, Fang Zhiyang, Wang Junfeng, Cheng Luyu, **Zeng Qi**, Yang Tao, Wu Yinwei, Geng Jiaxuan. **Review, Dec 2021.** *Applied Artificial Intelligence, 36(1)*
 
+- ***DroidRL: Feature selection for android malware detection with reinforcement learning*** <br>Wu Yinwei, Li Meijin, **Zeng Qi**, Yang Tao, Fang Zhiyang, Chen Luyu. **Review, Jan 2023.** *Computers & Security, 128(9)*
 
 ## 联系我:e-mail:
 - 邮箱：
-    - 教育邮箱: <a href="mailto:zengqi@ia.ac.cn">zengqi@ia.ac.cn</a>
+    - 教育邮箱: <a href="mailto:zengqi2023@ia.ac.cn">zengqi2023@ia.ac.cn</a>
     - QQ邮箱: <a href="mailto:scu_zengqi@qq.com">scu_zengqi@qq.com</a>
 
 
